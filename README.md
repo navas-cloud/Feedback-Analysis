@@ -283,4 +283,4 @@ git push -u origin main
 ---
 
 ## Author
-Priyanka R P — [LinkedIn](https://www.linkedin.com/in/priyanka-rp/) | [GitHub](https://github.com/PriyankaRP17)
+MohammedNavas A — [LinkedIn](https://www.linkedin.com/in/mohammed-navas-a-) | [GitHub](https://github.com/navas-cloud)
